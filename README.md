@@ -1,2 +1,2 @@
-# app
-https://infa.app
+# sakura-app
+https://www.sakura.zone
