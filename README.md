@@ -1,2 +1,2 @@
-# sakura-app
-https://www.sakura.zone
+# sakuraz-app
+https://www.sakuraz.net
